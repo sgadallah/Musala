@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<testData>
+    <invalidEmail>invalid_email_1@email</invalidEmail>
+    <invalidEmail>invalid_email_2@email</invalidEmail>
+    <invalidEmail>invalid_email_3@email</invalidEmail>
+    <invalidEmail>invalid_email_4@email</invalidEmail>
+    <invalidEmail>invalid_email_5@email</invalidEmail>
+</testData>
